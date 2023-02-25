@@ -4,6 +4,7 @@ A Collection of Machine Learning, Artificial Intelligence, and Data Science repo
 ## Repos
 [Ian Ozsvald](https://github.com/ianozsvald):
 + https://github.com/ianozsvald/data_science_delivered
++ https://github.com/ianozsvald/tutorials-scikit-learn
 
 [Andrej Karpathy](https://github.com/karpathy)
 + https://github.com/karpathy/nanoGPT
