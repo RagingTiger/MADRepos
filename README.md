@@ -9,3 +9,8 @@ A Collection of Machine Learning, Artificial Intelligence, and Data Science repo
 + https://github.com/karpathy/nanoGPT
 + https://github.com/karpathy/minGPT
 + https://github.com/karpathy/nn-zero-to-hero
+
+[Sebastian Raschka](https://github.com/rasbt):
++ https://github.com/rasbt/mlxtend
++ https://github.com/rasbt/machine-learning-book
++ https://github.com/rasbt/deeplearning-models
