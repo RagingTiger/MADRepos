@@ -15,3 +15,6 @@ A Collection of Machine Learning, Artificial Intelligence, and Data Science repo
 + https://github.com/rasbt/mlxtend
 + https://github.com/rasbt/machine-learning-book
 + https://github.com/rasbt/deeplearning-models
+
+[Eyal Kazin](https://github.com/elzurdo):
++ https://github.com/elzurdo/multi_objective_optimisation
