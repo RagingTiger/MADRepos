@@ -6,7 +6,7 @@ A Collection of Machine Learning, Artificial Intelligence, and Data Science repo
 + https://github.com/ianozsvald/data_science_delivered
 + https://github.com/ianozsvald/tutorials-scikit-learn
 
-[Andrej Karpathy](https://github.com/karpathy)
+[Andrej Karpathy](https://github.com/karpathy):
 + https://github.com/karpathy/nanoGPT
 + https://github.com/karpathy/minGPT
 + https://github.com/karpathy/nn-zero-to-hero
